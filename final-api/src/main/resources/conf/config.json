@@ -1,0 +1,4 @@
+{
+  "HTTP.PORT": 3000,
+  "MONGODB.CONNECTION_STRING": "mongodb://localhost:27017/testDB"
+}
