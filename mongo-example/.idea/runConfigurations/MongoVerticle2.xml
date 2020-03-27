@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MongoVerticle2" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.clooker.vertx.mongoexample.MongoVerticle" />
+    <module name="mongo-example" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
